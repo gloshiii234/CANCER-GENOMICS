@@ -1,0 +1,8 @@
+NAVIGATING cBioPortal
+
+I navigated the portal,there are different datasets containing samples per cancer study and data type uploaded
+
+I also noted API use where we can use R and python to access data from the portal
+
+I also noted tools oncoprinter which enables one generate oncoprints and perform mutual exclusivity analysis on data,    
+ Mutation mapper which interpretes mutations with protein annotations
